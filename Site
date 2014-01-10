@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<body>
+<center class="yreklam"><img  src="header.jpg"alt="Alternate Text" height="100" width="1000" alt"100"></center>
+
+
+
+<!--body lang=TR link=blue vlink=purple style='tab-interval:35.4pt'></body>
+<h1 style="text-align:center;">Center-aligned heading</h1>
+<p style="font-family:arial;color:red;font-size:200px;">A paragraph.</p>
+<h1 style="font-family:Jokerman;">A heading</h1-->
+<div id="container" style="width:1350px">
+<div id="menu" style="background-color:#C0C0C0;height:1000px;width:150px;float:left;">
+<b>Menu</b><br>
+
+<a href="index.html">Ana Sayfa</a><br>
+<a href="batmanili.html">Batman İli</a></br>
+<a href="rehber.html">Batman Rehberi</a><br>
+<a href="Tarihce.html">Tarihçe</a><br>
+<a href="Gezyerler.html">Gezilebilecek Yerler</a><br>
+<a href="Gorselbatman.html">Gorsellerle Batman</a><br>
+<a href="Ulasim.html">Ulaşım</a><br>
+<a href="Yoreselyemek.html">Yöresel Yemekler</a></div>
+
+<div id="menu" style="background-color:#C0C0C0;height:1000px;width:150px;float:right;">
+<b></b><br>
+<script language="javascript" src="http://in.sitekodlari.com/saat22.js"></script><br>
+<script language="javascript" src="http://in.sitekodlari.com/takvim1.js"></script><br>
+</div>
+
+
+
+
+<div id="content" style="background-color:#FFFFFF;height:1000px;width:1200px;text-align:left;">
+<h4>Batman Hakkında</h4>
+<p>On bin yıllık bir kültür birikimine sahip Batman'da kurulu bulunan petrol sanayii ve tesislerine paralel olarak artan yatırımlar, "Altına Hücum" gibi insanların buraya göç etmesine neden olmuştur. Batman'a yapılan bu göç, beraberinde farklı bir kültürü de getirmiştir. Bu sosyal ve kültürel doku ile folklorik yaşam tarzı, bir laboratuarda birbiriyle karıştırılmış gibi Batman'da kendini göstermektedir.</p>
+<center class="yreklam"><img  src="http://www.batmanburada.com/images/batman11.jpg"alt="Alternate Text" height="133" width="200" alt"100"></center>
+
+
+<center><iframe width="420" height="345"
+src="http://www.youtube.com/embed/bNtJCVIszqY">
+</iframe></center>
+</div>
+
+
+
+
+<body>
+
+
+
+<div id="footer" style="background-color:#FFFFFF;width:1350px;clear:both;float:right;text-align:center;">
+Copyright © Yunus Emre ERKEN</div>
+
+</div>
+ <body style="background-color:#B0C4DE;"> 
+<style type="text/css">
+body {background-color:white<;}
+b {color:black;}
+h1{color:black;}
+</style>
+</head>
+</tr>
+</body>
+</html>
+
+
